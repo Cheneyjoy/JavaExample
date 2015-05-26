@@ -6,7 +6,5 @@ public class Run {
         System.out.println("Hello,World!");
         System.out.println("Good mornign!");
         System.out.println("Bye!");
-        System.out.println("test!");
-        System.out.println("test new feature!");
     }
 }
